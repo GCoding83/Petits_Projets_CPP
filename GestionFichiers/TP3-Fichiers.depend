@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574644747 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp3-fichiers\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

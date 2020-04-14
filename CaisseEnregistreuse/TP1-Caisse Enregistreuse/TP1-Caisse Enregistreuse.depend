@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1571161882 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	"Produit.h"
+	"Terre.h"
+	"Sable.h"
+	"Gravel.h"
+	"Ciment.h"
+	"Planche.h"
+
+1570543658 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\src\facture.cpp
+	"Facture.h"
+
+1570543658 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\include\facture.h
+
+1570987004 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\src\gravel.cpp
+	"Gravel.h"
+
+1570986887 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\include\gravel.h
+	"Produit.h"
+	<string>
+
+1570986676 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\include\produit.h
+	<string>
+
+1570987044 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\src\planche.cpp
+	"Planche.h"
+
+1570986882 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\include\planche.h
+	"Produit.h"
+	<string>
+
+1570727742 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\src\produit.cpp
+	"Produit.h"
+
+1570987058 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\src\sable.cpp
+	"Sable.h"
+
+1570986924 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\include\sable.h
+	"Produit.h"
+	<string>
+
+1570983869 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\src\sacdeciment.cpp
+	"SacDeCiment.h"
+
+1570986948 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\include\sacdeciment.h
+	"Produit.h"
+	<string>
+
+1570987101 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\src\terre.cpp
+	"Terre.h"
+
+1570986962 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\include\terre.h
+	"Produit.h"
+	<string>
+
+1570987221 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\src\ciment.cpp
+	"Ciment.h"
+
+1570987251 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1\tp1-caisse enregistreuse\include\ciment.h
+	"Produit.h"
+	<string>
+
+1570983621 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\ciment.cpp
+	"Ciment.h"
+
+1570983651 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\ciment.h
+	"Produit.h"
+	<string>
+
+1570983076 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\produit.h
+	<string>
+
+1570983404 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\gravel.cpp
+	"Gravel.h"
+
+1572892674 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\gravel.h
+	"Produit.h"
+	<string>
+
+1570983444 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\planche.cpp
+	"Planche.h"
+
+1570983282 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\planche.h
+	"Produit.h"
+	<string>
+
+1570983458 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\sable.cpp
+	"Sable.h"
+
+1570983324 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\sable.h
+	"Produit.h"
+	<string>
+
+1570983501 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\terre.cpp
+	"Terre.h"
+
+1570983362 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\terre.h
+	"Produit.h"
+	<string>
+
+1572719891 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	"Produit.h"
+	"Terre.h"
+	"Sable.h"
+	"Gravel.h"
+	"Ciment.h"
+	"Planche.h"
+
+1570983076 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\produit.h
+	<string>
+
+1570983362 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\terre.h
+	"Produit.h"
+	<string>
+
+1570983324 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\sable.h
+	"Produit.h"
+	<string>
+
+1572892674 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\gravel.h
+	"Produit.h"
+	<string>
+
+1570983651 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\ciment.h
+	"Produit.h"
+	<string>
+
+1570983282 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\include\planche.h
+	"Produit.h"
+	<string>
+
+1570983621 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\ciment.cpp
+	"Ciment.h"
+
+1570983404 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\gravel.cpp
+	"Gravel.h"
+
+1570983444 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\planche.cpp
+	"Planche.h"
+
+1570983458 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\sable.cpp
+	"Sable.h"
+
+1570983501 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp1 - caisse enregistreuse\tp1-caisse enregistreuse\src\terre.cpp
+	"Terre.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1573432412 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp2 - restaurantavance\src\commande.cpp
+	"Commande.h"
+
+1574359306 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp2 - restaurantavance\include\commande.h
+	"string"
+
+1573436703 source:c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp2 - restaurantavance\main.cpp
+	<iostream>
+	<string>
+	<queue>
+	<exception>
+	"Commande.h"
+	"ConteneurVideException.h"
+
+1573432316 c:\users\girou\dropbox\collège rosemont\automne 2019\c++\exams et tp\tp2 - restaurantavance\include\conteneurvideexception.h
+	"exception"
+
